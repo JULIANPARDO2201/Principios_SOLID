@@ -9,7 +9,6 @@ public class App {
 
         carro1.acelerar();
         carroRepo.guardar(carro1);
-        carroReport.generarPDF(carro1);
-        
+        carroReport.generarPDF(carro1);       
     }
 }
