@@ -1,9 +1,9 @@
 package SRP;
 
 public class Vehiculo_Reporte{
-        
+    
     private Vehiculo v;
-
+    
     public Vehiculo_Reporte(Vehiculo v){
         this.v = v;
     }
